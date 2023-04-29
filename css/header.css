@@ -11,11 +11,12 @@
 /* header */
 .header {
 position: absolute;
-width: 1440px;
 height: 249px;
 left: 0px;
 top: 0px;
-
+width: 100%;
+margin-left: auto;
+margin-right: auto;
 background: #C7B199;
 }
 
